@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo whoami
+sudo apt update && sudo apt upgrade
